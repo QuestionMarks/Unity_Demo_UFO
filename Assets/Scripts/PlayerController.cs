@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
 
         if(m_count >= TOTAL_PICKUP_COUNT)
         {
-            m_win_text.text = "You win!";
+            m_win_text.text = "She got Thai hair and Florida lips";
         }
     }
 }
